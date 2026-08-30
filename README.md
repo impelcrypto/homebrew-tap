@@ -5,6 +5,7 @@ bar app that runs your prompt templates on selected text.
 
 ```sh
 brew tap impelcrypto/tap
+brew trust impelcrypto/tap   # Homebrew refuses casks from taps you have not trusted
 brew install --cask holster
 ```
 

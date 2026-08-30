@@ -7,7 +7,7 @@ cask "holster" do
   desc "Menu bar app that runs your prompt templates on selected text"
   homepage "https://github.com/impelcrypto/Holster"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "Holster.app"
