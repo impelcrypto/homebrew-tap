@@ -1,6 +1,6 @@
 cask "holster" do
-  version "0.2.0"
-  sha256 "0cd1f3e3846452ee81b56878604ed0ef5ae637d1a1b6b63c77b938ef6f2b4aa2"
+  version "0.3.0"
+  sha256 "d0e1c49dceac489dd5f760d452f23d687ffd0fbd61884258b36717ab7d2e4e18"
 
   url "https://github.com/impelcrypto/Holster/releases/download/v#{version}/Holster-#{version}.zip"
   name "Holster"
